@@ -1,0 +1,8 @@
+resource_group_name = "patrick-demo-rg-2022-10-27"
+resource_group_location = "westeurope"
+virtual_network_name = "patrick-demo-virtual-network"
+subnet_name = "patrick-demo-subnet"
+public_ip_name = "patrick-demo-public-ip"
+network_interface_name = "patrick-demo-network-interface"
+security_group_name = "patrick-demo-sg"
+vm_name = "patrick-demo-vm"
